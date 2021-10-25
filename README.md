@@ -61,4 +61,4 @@ Isaac Aguirre
 - Isaac L. Aguirre
 - [GitHub Profile](https://github.com/izaaaqk)
 ## Example
-![images] (assets/homepage.jpg)
+![plot](./assets/homepage.jpg)
