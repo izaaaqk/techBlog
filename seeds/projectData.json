@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gotham city",
+    "description": "gotham city must be free from the joker.",
+    "needed_funding": 5000
+  },
+  {
+    "name": "Daddy issues",
+    "description": "I just want a kid to be a father figure",
+    "needed_funding": 10000
+  },
+  {
+    "name": "Roll 'Em Up",
+    "description": "Got to bet more bats for the bat cave.",
+    "needed_funding": 800
+  }
+]

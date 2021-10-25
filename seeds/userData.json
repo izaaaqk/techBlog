@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bruce Wane",
+    "email": "batman@hotmail.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Dick Grayson",
+    "email": "Robin@gmail.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Harvey Dent",
+    "email": "2face0@aol.com",
+    "password": "password12345"
+  }
+]
