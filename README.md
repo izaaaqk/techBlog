@@ -66,6 +66,6 @@ homepage
 login
 ![plot](./assets/loginPage.jpg)
 add comments
-![plot](./assets/add comment.jpg)
+![plot](./assets/add20%comment.jpg)
 outcome
 ![plot](./assets/commentAdded.jpg)
