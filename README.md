@@ -61,5 +61,11 @@ Isaac Aguirre
 - Isaac L. Aguirre
 - [GitHub Profile](https://github.com/izaaaqk)
 ## Example
-###homepage
+homepage
 ![plot](./assets/homepage.jpg)
+login
+![plot](./assets/loginPage.jpg)
+add comments
+![plot](./assets/add comment.jpg)
+outcome
+![plot](./assets/commentAdded.jpg)
