@@ -4,6 +4,11 @@
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
+
+  ## Heroku
+
+   [here](https://floating-shelf-21754.herokuapp.com/).
+
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -11,6 +16,10 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 - [Contributors](#Contributors)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub)
+- [Heroku](#Heroku)
+- [Example](#Example)
+
+
 ## Installation
         run npm i to install node modules
         run Database 
